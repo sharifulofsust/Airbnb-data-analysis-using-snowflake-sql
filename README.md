@@ -1,7 +1,27 @@
 # Airbnb-data-analysis-using-snowflake-sql
 #Description of the Dataset: Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences. The company acts as a broker and charges a commission from each booking. You will be working with their European Booking Dataset. This is a merged dataset of 9 famous cities in Europe: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, Paris, Rome, and Vienna. The original Dataset was messy and lacked describing appropriate information. But, this one was first cleaned.
 
-#Variables Names and Descriptions are: City: Name of the City/ Price: Price of Airbnb/ Day: If it is a weekday or weekend/ Room Type: Type or Airbnb - Entire Apt, Private Room, Shared Room/ Share Room: If the Room in Airbnb is shared by anyone/ Private Room: If the Stay has a Private room available/ Person Capacity: The Person Capacity of Airbnb/ Superhost: If the Airbnb host is Superhost or not/ Multiple Rooms: If the Airbnb has multiple rooms (2-4) rooms/ Business: If the Business has more than 4 offers/ Cleaningness Rating: Cleanness Ratings of the Places/ Guest Satisfaction: Guest Satisfaction Score they left/ Bedrooms: Number of Bedrooms in the facility/ City Center (km): Distance to the center of the City from the staying place/ Metro Distance (km): Distance to the Metro Service from the staying place/ Attraction Index: Attraction Index of the Place/ Normalised Attraction Index: Normalised value of the Attraction Index/ Restraurant Index: Restaurant Index of the Place/ Normalised Restraurant Index: Normalised value of the Restaurant Index/
+#Variables Names and Descriptions are:
+* City: Name of the City
+*  Price: Price of Airbnb
+*   Day: If it is a weekday or weekend
+*    Room Type: Type or Airbnb - Entire Apt, Private Room, Shared Room
+*     Share Room: If the Room in Airbnb is shared by anyone
+*  Private Room: If the Stay has a Private room available
+*   Person Capacity: The Person Capacity of Airbnb
+*   Superhost: If the Airbnb host is Superhost or not
+*   Multiple Rooms: If the Airbnb has multiple rooms (2-4) rooms
+*    Business: If the Business has more than 4 offers
+*    Cleaningness Rating: Cleanness Ratings of the Places
+*    Guest Satisfaction: Guest Satisfaction Score they left
+*     Bedrooms: Number of Bedrooms in the facility
+*  City Center (km): Distance to the center of the City from the staying place
+*   Metro Distance (km): Distance to the Metro Service from the staying place
+*    Attraction Index: Attraction Index of the Place
+*     Normalised Attraction Index: Normalised value of the Attraction Index
+* Restraurant Index: Restaurant Index of the Place
+* Normalised Restraurant Index: Normalised value of the Restaurant Index
+  
 
 #Task:
 
