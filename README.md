@@ -1,3 +1,10 @@
+
+![image](https://github.com/sharifulofsust/Airbnb-data-analysis-using-snowflake-sql/assets/140061077/ef64db87-d993-4241-b344-ce3ce0580932)
+
+
+
+
+
 # Airbnb-data-analysis-using-snowflake-sql
 #Description of the Dataset: Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences. The company acts as a broker and charges a commission from each booking. You will be working with their European Booking Dataset. This is a merged dataset of 9 famous cities in Europe: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, Paris, Rome, and Vienna. The original Dataset was messy and lacked describing appropriate information. But, this one was first cleaned.
 
