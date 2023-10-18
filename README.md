@@ -6,19 +6,19 @@
 *  Price: Price of Airbnb
 *   Day: If it is a weekday or weekend
 *    Room Type: Type or Airbnb - Entire Apt, Private Room, Shared Room
-*     Share Room: If the Room in Airbnb is shared by anyone
+* Share Room: If the Room in Airbnb is shared by anyone
 *  Private Room: If the Stay has a Private room available
 *   Person Capacity: The Person Capacity of Airbnb
 *   Superhost: If the Airbnb host is Superhost or not
 *   Multiple Rooms: If the Airbnb has multiple rooms (2-4) rooms
 *    Business: If the Business has more than 4 offers
-*    Cleaningness Rating: Cleanness Ratings of the Places
+*  Cleaningness Rating: Cleanness Ratings of the Places
 *    Guest Satisfaction: Guest Satisfaction Score they left
-*     Bedrooms: Number of Bedrooms in the facility
+*   Bedrooms: Number of Bedrooms in the facility
 *  City Center (km): Distance to the center of the City from the staying place
 *   Metro Distance (km): Distance to the Metro Service from the staying place
 *    Attraction Index: Attraction Index of the Place
-*     Normalised Attraction Index: Normalised value of the Attraction Index
+* Normalised Attraction Index: Normalised value of the Attraction Index
 * Restraurant Index: Restaurant Index of the Place
 * Normalised Restraurant Index: Normalised value of the Restaurant Index
   
